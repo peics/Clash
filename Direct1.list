@@ -1,2 +1,6 @@
 # 直连补充列表
 DOMAIN-SUFFIX,plex.tv
+#pikpak
+DOMAIN,api-drive.mypikpak.com
+DOMAIN-KEYWORD,dl-a10b-
+DOMAIN-KEYWORD,dl-z01a-
